@@ -13,7 +13,7 @@
  There cannot be any blocks above this windmill to operate, so it will not work underground or in the Nether.
  
  ![Horizontal Windmill](betterwithmods:docs/imgs/windmill-1.png)
- ![Horizontal Windmill](../../imgs/windmill-1.png)    
+ ![Horizontal Windmill](https://betterwithmods.github.io/Documentation/imgs/windmill-1.png)    
 
 # Vertical Windmill
  To place this windmill it needs a 9x7x9 blocks of free space, including the 7 axles placed one on top of other in the middle. 

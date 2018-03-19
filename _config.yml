@@ -1,2 +1,5 @@
-theme: jekyll-theme-slate
 title: Better With Docs
+favicon: favicon.ico
+overview: true
+theme: jekyll-theme-slate
+url: https://betterwithmods.github.io/Documentation/

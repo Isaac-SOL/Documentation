@@ -6,3 +6,4 @@
 .idea
 /Gemfile.lock
 /_site/
+/.jekyll-metadata

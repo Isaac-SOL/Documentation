@@ -21,4 +21,4 @@
  This windmill does not need the blocks above it cleared and thus works in the Nether.
  
  ![Vertical Windmill](betterwithmods:docs/imgs/windmill-2.png)
- ![Vertical Windmill](/imgs/windmill-2.png)
+ ![Vertical Windmill](https://betterwithmods.github.io/Documentation/imgs/windmill-2.png)

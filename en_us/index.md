@@ -1,5 +1,3 @@
-# Better With Mods!
-
 Better With Mods is a mod that adds many new items and blocks, as well as having many features which change base functions of the vanilla game.
 
 This mod is broken into two main sections, the Core mod and the Modules system.

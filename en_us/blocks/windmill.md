@@ -12,13 +12,13 @@
  To place this windmill it needs a 13x13x1 cleared space with an axle at the center, click on the axle with the Windmill item.  
  There cannot be any blocks above this windmill to operate, so it will not work underground or in the Nether.
  
- ![Horizontal Windmill](betterwithmods:docs/imgs/windmill-1.png)
- ![Horizontal Windmill](https://betterwithmods.github.io/Documentation/imgs/windmill-1.png)    
+ ![](betterwithmods:docs/imgs/windmill-1.png)
+ ![](https://betterwithmods.github.io/Documentation/imgs/windmill-1.png)    
 
 # Vertical Windmill
  To place this windmill it needs a 9x7x9 blocks of free space, including the 7 axles placed one on top of other in the middle. 
  Click on the bottom of the 7 axles to form the windmill.
  This windmill does not need the blocks above it cleared and thus works in the Nether.
  
- ![Vertical Windmill](betterwithmods:docs/imgs/windmill-2.png)
- ![Vertical Windmill](https://betterwithmods.github.io/Documentation/imgs/windmill-2.png)
+ ![](betterwithmods:docs/imgs/windmill-2.png)
+ ![](https://betterwithmods.github.io/Documentation/imgs/windmill-2.png)

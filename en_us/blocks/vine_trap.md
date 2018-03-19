@@ -1,3 +1,3 @@
 # Vine Trap
 
-%[Vine Trap](block:betterwithmods:vine_trap)
+![Vine Trap](block:betterwithmods:vine_trap)

@@ -1,4 +1,4 @@
 # Haft
 
-%[Haft](item:betterwithmods:material@36)
+![Haft](item:betterwithmods:material@36)
 

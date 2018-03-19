@@ -1,6 +1,6 @@
 # Block Dispenser
 
-%[Block Dispenser](block:betterwithmods:block_dispenser)
+![Block Dispenser](block:betterwithmods:block_dispenser)
 
 The Block Dispenser is a Redstone controlled device with a multitude of uses.  
 In the inventory of the Block Dispenser there is a highlighted slot that shows the current selected item. Given a full inventory, the selector will move over every slot 1 by one, changing after every redstone signal.

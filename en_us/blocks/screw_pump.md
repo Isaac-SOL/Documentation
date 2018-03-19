@@ -1,3 +1,3 @@
 # Screw Pump
 
-%[Screw Pump](block:betterwithmods:screw_pump)
+![Screw Pump](block:betterwithmods:screw_pump)

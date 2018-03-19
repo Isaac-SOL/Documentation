@@ -1,3 +1,3 @@
 # Anchor
 
-%[Anchor](block:betterwithmods:anchor)
+![Anchor](block:betterwithmods:anchor)

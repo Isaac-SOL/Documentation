@@ -1,6 +1,6 @@
 # Block Detector
 
-%[Block Detector](block:betterwithmods:detector)
+![Block Detector](block:betterwithmods:detector)
 
 The Block Detector creates a continous Redstone Signal while there is something directly in its face. 
 This includes:

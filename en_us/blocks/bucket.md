@@ -1,3 +1,3 @@
 # Well Bucket
 
-%[Well Bucket](block:betterwithmods:bucket)
+![Well Bucket](block:betterwithmods:bucket)

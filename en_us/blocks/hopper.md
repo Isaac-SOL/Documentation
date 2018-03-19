@@ -1,6 +1,6 @@
 # Filtered Hopper
 
-%[Hopper](block:betterwithmods:single_machine@2)
+![Hopper](block:betterwithmods:single_machine@2)
 
 The Hopper will pick up items above it based on its filter. 
 It can be filtered by putting an item in the top slot.

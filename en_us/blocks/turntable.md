@@ -1,6 +1,6 @@
 # Turntable
 
-%[Turntable](block:betterwithmods:single_machine@3)
+![Turntable](block:betterwithmods:single_machine@3)
 
 The Turntable will rotate the block directly on top of it and, given the right conditions,the block on top of that. It requires Mechanical Power from the bottom. When given a Redstone Signal the Turntable will rotate in reverse.  
  

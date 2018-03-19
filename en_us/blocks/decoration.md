@@ -3,19 +3,19 @@
 # Furniture
 
 ## Tables
-%[Tables](oredict:blockWoodTable)
+![Tables](oredict:blockWoodTable)
 
 ## Benches
-%[Benches](oredict:blockWoodBench)
+![Benches](oredict:blockWoodBench)
 
 ## Slats
-%[Slats](oredict:slats)
+![Slats](oredict:slats)
 
 ## Grates
-%[Grates](oredict:grates)
+![Grates](oredict:grates)
 
 ## Wicker
-%[Wicker](oredict:wicker)
+![Wicker](oredict:wicker)
 
 ## Iron Wall
-%[Iron Wall](block:betterwithmods:iron_wall)
+![Iron Wall](block:betterwithmods:iron_wall)

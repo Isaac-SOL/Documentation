@@ -1,6 +1,6 @@
 # Gearbox
 
-%[Gearbox](block:betterwithmods:wooden_gearbox@0)
+![Gearbox](block:betterwithmods:wooden_gearbox@0)
 
 Gearboxes are used to transfer Mechanical Power.
 Power must be input into this face and can output to any other face.

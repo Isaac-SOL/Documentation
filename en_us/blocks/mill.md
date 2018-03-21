@@ -1,6 +1,6 @@
 # Millstone
 
-![Millstone](block:betterwithmods:single_machine@0)
+![Millstone](block:betterwithmods:millstone)
 
 The Millstone is a machine that when it receives Mechanical Power the gear inside turns and crushes materials into a finer form.
 The Items are ground up one at a time, then ejected horizontally into the world. To properly rotate the Millstone cannot have solid blocks around it.

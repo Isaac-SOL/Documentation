@@ -1,5 +1,5 @@
 # Filament
 
-![Filament](item:betterwithmods:material@19)
+![Filament](item:betterwithmods:filament)
 
 A crafting component for the [Light Block](../blocks/light.md)

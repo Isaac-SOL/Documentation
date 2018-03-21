@@ -1,6 +1,6 @@
 # Soap
 
-![Soap](item:betterwithmods:material@50)
+![Soap](item:betterwithmods:soap)
 
 ![Soap Block](block:betterwithmods:aesthetic@10)
 

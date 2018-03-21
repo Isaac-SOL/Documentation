@@ -1,6 +1,6 @@
 # Hemp
 
-![Hemp](item:betterwithmods:material@2)
+![Hemp](item:betterwithmods:hemp_leaf)
 ![Hemp Seed](block:betterwithmods:hemp)
 
 Hemp is a strong fibrous plant that can be used for many different things, including strong [Rope](../items/rope.md) or [Fabric](../items/fabric.md)

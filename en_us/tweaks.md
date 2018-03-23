@@ -1,4 +1,4 @@
-# Tweaks - Small changes to make the game a little different that aren't quite Hardcore.
+Tweaks - Small changes to make the game a little different that aren't quite Hardcore.
 
 * Fast Stick - Adds a recipe to turn 1 single plank into a stick for convenient crafting.
 

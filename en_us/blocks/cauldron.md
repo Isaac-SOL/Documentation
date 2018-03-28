@@ -10,7 +10,7 @@ Lava will **NOT** work with the Cauldron. It simply lacks the ability to heat it
 
 You also do not need water for the recipes inside the cauldron; The bone and water bucket you used to craft it with (Unless the cauldron recipe has been changed in your modpack) is the "stock" your food and items go into. The open top means you can also have stuff drop into it without having to directly access it's inventory. Fluids and such will NOT go into it, meaning that if you use water flows or an item dropper, you could feasibly automate say, a mob farm, animal farm, and so much more.
 
-# To go with the above, applying mechanical power to the cauldron will tip it in varying directions:
+### To go with the above, applying mechanical power to the cauldron will tip it in varying directions:
 * Powering it from the South will make it tip to the West.
 * Powering it from the North will make it tip to the East.
 * Powering it from the East will make it tip to the South.

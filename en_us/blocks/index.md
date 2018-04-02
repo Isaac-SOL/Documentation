@@ -22,6 +22,7 @@
  * [Mechanical Booster Rail](booster.md)
  * [Pulley](pulley.md)
  * [Turntable](turntable.md)
+ * [Screw Pump](screw_pump.md)
  
 ## Mechanical Generators
  * [Windmill](windmill.md)
@@ -35,9 +36,9 @@
  * [Mining Charge](mining_charge.md)
  * [Decorative Blocks](decoration.md)
  * [Dirt Slab](dirt_slab.md)
+ * [Well Bucket](well_bucket.md)
 
 ## TODO
- * [Bucket](bucket.md)
  * [Kiln](kiln.md)
  * [Cauldron](cauldron.md)
  * [Crucible](crucible.md)

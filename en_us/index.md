@@ -10,7 +10,7 @@ This content cannot be removed or disabled, some can be configured.
 
 The Modules System adds the majority of the content, it is broken into Modules which are further broken into Features, all of which are configurable. The current modules are as follows:  
    * [Hardcore Features](hardcore/index.md)  
-   * [Tweaks](tweaks.md)
-   * [Compat](compat.md)
+   * [Tweaks](tweaks/index.md)
+   * [Compat](compat/index.md)
  
 

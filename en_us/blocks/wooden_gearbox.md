@@ -6,10 +6,7 @@ Gearboxes are used to transfer Mechanical Power.
 Power must be input into this face and can output to any other face.
 When given a Redstone Signal the Gearbox will not transfer Mechanical Power.
 
-![Input Face](betterwithmods:textures/blocks/wooden_gearbox_input.png)
-
 The block can be rotated by shift-clicking it with an empty hand to make facing it easier.
-
 
 ## Broken Gearbox
 ![Broken Gearbox](block:betterwithmods:wooden_broken_gearbox@0)

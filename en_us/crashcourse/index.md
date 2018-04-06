@@ -14,14 +14,14 @@ Now that you have a [Windmill](../blocks/windmill.md), you must use Axles and Ge
 
 Alternatively, the [Vertical Windmill](../blocks/windmill.md) is also an option, which is a slightly more expensive windmill that needs a 9x7x9 area cleared, with 7 vertical axles. It's advantages are that, other than allowing different axle placement methods, it works in the Nether and underground in the overworld, whereas the normal Windmill does not. Do note that if you try to place an axle off of this windmill directly, it'll break off. You need to have it directly hooked into it's first gearbox.
 
-![Basic Windmill Setup](betterwithmods:docs/imgs/mechanical-power.png)
-
+![](betterwithmods:docs/imgs/mechanical-power.png)
+![](https://betterwithmods.github.io/Documentation/imgs/mechanical-power.png)
 
 With Continuous Mechanical Power now being produced, more machines are available to use.
 
 The next step to using Mechanical Power is Tanned Leather, which is created in a Cauldron. You need wood bark and scoured leather for this process, which the millstone can provide you with scoured leather, and as for the wood bark, taking an axe to wood logs as a crafting recipe, or simply punching a tree will work. Alternatively, if you have dung... It also works in lieu of bark.
 
-A [Cauldron](../blocks/cauldron.md) requires a uninterrupted fire source in below it, this can be from burning netherrack or wood if you're really desperate. Additionally, the more fire in the 3x3 around the center fire the faster the Cauldron will process. Having a functional Cauldron opens up more possibilities, such as the creation of Heating Elements and Filaments; This allows creating the Hibachi and [Light Blocks](../blocks/light_block.md) respectively. The cauldron also allows mass cooking of food and more. It's best to imagine it as a furnace that can cook certain things over time; Place stuff in, and go about your business, and return after a long day's work to check the pot!
+A [Cauldron](../blocks/cauldron.md) requires a uninterrupted fire source in below it, this can be from burning netherrack or wood if you're really desperate. Additionally, the more fire in the 3x3 around the center fire the faster the Cauldron will process. Having a functional Cauldron opens up more possibilities, such as the creation of Heating Elements and Filaments; This allows creating the Hibachi and [Light Blocks](../blocks/light.md) respectively. The cauldron also allows mass cooking of food and more. It's best to imagine it as a furnace that can cook certain things over time; Place stuff in, and go about your business, and return after a long day's work to check the pot!
 
 The Cauldron also accepts stuff being dropped in from the top, and when powered by mechanical power, will tip the contents out!
 
@@ -35,9 +35,11 @@ With Tanned Leather, Leather Belts can now be made to create more complex machin
 
 *  The [Bellows](../blocks/bellows.md) is an air bladder that, when given mechanical power, will contract and blow a gust at the 3x3 block area in front of it, and will expand when the mechanical power is removed. This gust of air can be used to stoke the fires of a Hibachi, allowing the Cauldron and the Crucible to process Stoked Recipes as well as create a Kiln.
 
-To properly stoke a fire, one must alternate the power to a Bellows enough for it go up and down before the fire cools back down. This timing can be achieved with the [Turntable](..blocks/turntable.md) or if you want, a normal redstone timer. The specifics will be left to you, the player, to discover.
+To properly stoke a fire, one must alternate the power to a Bellows enough for it go up and down before the fire cools back down. This timing can be achieved with the [Turntable](../blocks/turntable.md) or if you want, a normal redstone timer. The specifics will be left to you, the player, to discover.
 
-![Stoked Cauldron](betterwithmods:docs/imgs/stoking.png)
+Stoked Cauldron
+![](https://betterwithmods.github.io/Documentation/imgs/stoking.png)    
+![](betterwithmods:docs/imgs/stoking.png)
 
 Stoked Cauldrons are used for processing ingredients into advanced recipes, such as rendering leather into glue, wood into potash, and meat into tallow.
  * Glue is oredicted for slimeballs, so this can act as a suitable replacement in recipes that call for it, in addition to having it's own uses beyond just being a slimeball substitute.
@@ -49,7 +51,10 @@ With access to glue, one can now make the Waterwheel. This mechanical generator 
 The [Kiln](../blocks/kiln.md) is a multiblock structure that requires a single bottom Bricks and 3 additional Bricks around the air above the bottom block. Kilns can shared Bricks.
 
 Each of these Hibachis has a valid kiln shape above it.
-![Some Kilns](betterwithmods:docs/imgs/kilns.png)
+
+Basic Kilns
+![](https://betterwithmods.github.io/Documentation/imgs/kilns.png)    
+![](betterwithmods:docs/imgs/kilns.png)
 
 Like the crucible and cauldron, it is also boosted by adding more fire underneth it in a 3x3 section.
 To use the kiln place a block with a recipe into the air above the bottom block and it will begin to smelt it.

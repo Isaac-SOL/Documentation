@@ -1,5 +1,4 @@
 # Hardcore Beacons
-({hcbeacons?Enabled:Disabled})
 
 This feature reworks how beacons function. Beacons no longer have any GUI, instead the effect of the beacon is dictated by the blocks under it.
 

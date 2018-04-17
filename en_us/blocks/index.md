@@ -9,7 +9,7 @@
  * [Lens](lens.md)
  * [Light Block](light.md)
  * [Wind Chime](wind_chime.md)
- 
+
 
 ## Mechanical Devices
  * [Handcrank](hand_crank.md) 
@@ -29,6 +29,7 @@
  * [Waterwheel](waterwheel.md)        
  
 ## Other
+ * [Soul Urn](soul_urn.md)
  * [Soulforged Steel Block](soulforged_steel_block.md)
  * [Infernal Enchanter](infernal_enchanter.md)
  * [Chopping Block](chopping_block.md)
@@ -47,7 +48,6 @@
  * [Vine Trap](vine_trap.md)
  * [Blood Wood](blood_wood.md)
  * [Steel Pressure Plate](steel_pressure_plate.md)
- * [Soul Urn](soul_urn.md)
  * [Planter](planter.md)
  * [Platform](platform.md)
  * [Minimized Stone](minimized_stone.md)

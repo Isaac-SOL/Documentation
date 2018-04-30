@@ -10,11 +10,11 @@
  * [Light Block](light.md)
  * [Wind Chime](wind_chime.md)
 
-
-## Mechanical Devices
- * [Handcrank](hand_crank.md) 
+## Mechanical Power Transfer
  * [Gearbox](wooden_gearbox.md)
  * [Wooden Axle](wooden_axle.md)
+
+## Mechanical Devies
  * [Millstone](mill.md)
  * [Saw](saw.md)
  * [Filtered Hopper](hopper.md)
@@ -25,9 +25,15 @@
  * [Screw Pump](screw_pump.md)
  
 ## Mechanical Generators
+ * [Handcrank](hand_crank.md) 
  * [Windmill](windmill.md)
  * [Waterwheel](waterwheel.md)        
- 
+
+## Processing Machines
+ * [Cauldron](cauldron.md)
+ * [Crucible](crucible.md)
+  * [Kiln](kiln.md)
+
 ## Other
  * [Soul Urn](soul_urn.md)
  * [Soulforged Steel Block](soulforged_steel_block.md)
@@ -40,9 +46,6 @@
  * [Well Bucket](well_bucket.md)
 
 ## TODO
- * [Kiln](kiln.md)
- * [Cauldron](cauldron.md)
- * [Crucible](crucible.md)
  * [Anchor](anchor.md)
  * [Anvil](anvil.md)
  * [Vine Trap](vine_trap.md)

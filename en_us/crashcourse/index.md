@@ -43,7 +43,7 @@ Stoked Cauldron
 
 Stoked Cauldrons are used for processing ingredients into advanced recipes, such as rendering leather into glue, wood into potash, and meat into tallow.
  * Glue is oredicted for slimeballs, so this can act as a suitable replacement in recipes that call for it, in addition to having it's own uses beyond just being a slimeball substitute.
- * Tallow can be used for making [Candles], [Blasting Oil], and finally, [Soap].
+ * Tallow can be used for making [Candles](../blocks/candles.md), [Blasting Oil](../items/blasting_oil.md), and finally, [Soap](../items/soap.md).
  * Potash's main use is to combine with hellfire dust to make Nether Sludge, which can be smelted in the furnace or kiln as a more efficient source of Nether Brick.
 
 With access to glue, one can now make the Waterwheel. This mechanical generator requires flowing water in order to produce mechanical power. It's biggest advantages are that it can avoid being overpowered by weather conditions, and that you can now get underground mechanical power without a very long chain of axles and gearboxes. It also is your only source of mechanical power in The End, for automating Enderman farms or whatever else you might need mechanical power there for.
@@ -62,12 +62,12 @@ To use the kiln place a block with a recipe into the air above the bottom block 
 Uses of the kiln:
  * Baking raw clay pottery into actual, usable solid pottery; This is so you can obtain the [Crucible](../blocks/crucible.md).
  * Another other use is for mass baking of cookies, pies, bread, and cakes in more efficient recipes than the crafting table by placing their raw variants into the kiln.
- * It's other big use is producing White Cobble from Endstone. This is one key link for making [Soulforged Steel]; It produces the Ender Slag required for producing [Soul Flux].
+ * It's other big use is producing White Cobble from Endstone. This is one key link for making [Soulforged Steel](../items/soulforged_steel.md); It produces the Ender Slag required for producing [Soul Flux](../items/soul_flux.md).
  * Finally, you can make charcoal in it. Just toss any ol' log in there and it'll begin turning into that sweet, sweet renewable coal variant!
 
 The Stoked [Crucible](../blocks/crucible.md) is a highly important block. When stoked it allows for the following:
 
- * The creation of [Soulforged Steel], the most important lategame material by far.
+ * The creation of [Soulforged Steel](../items/soulforged_steel.md), the most important lategame material by far.
  * Mass smelting of various furnace recipes (But not food cooking.), like sand into glass, cobble into smooth stone, and so on.
  * Somewhat lossy recycling of various tools, armors, and other mostly metal blocks. Diamond/Soulforged Steel items and armor recycle at a 100% return, and is the best way to continually get new gear of those types!
  * Automatic recombination of nuggets into ingots (Mainly for the above.)

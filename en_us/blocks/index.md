@@ -44,7 +44,8 @@
  * [Decorative Blocks](decoration.md)
  * [Dirt Slab](dirt_slab.md)
  * [Well Bucket](well_bucket.md)
-
+ * [Candle](candles.md)
+ * [Candle Holder](candle_holders.md)
 ## TODO
  * [Anchor](anchor.md)
  * [Anvil](anvil.md)
@@ -54,3 +55,4 @@
  * [Planter](planter.md)
  * [Platform](platform.md)
  * [Minimized Stone](minimized_stone.md)
+
